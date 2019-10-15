@@ -1,0 +1,44 @@
+{
+  "warehouses": [
+    {
+      "name": "New York",
+      "inventory": [
+        { "item": "item1", "quantity": 20 },
+        { "item": "item2", "quantity": 20 },
+        { "item": "item3", "quantity": 20 }
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "inventory": [
+        { "item": "item1", "quantity": 20 },
+        { "item": "item2", "quantity": 20 },
+        { "item": "item3", "quantity": 20 }
+      ]
+    },
+    {
+      "name": "Miami",
+      "inventory": [
+        { "item": "item1", "quantity": 20 },
+        { "item": "item2", "quantity": 20 },
+        { "item": "item3", "quantity": 20 }
+      ]
+    },
+    {
+      "name": "Houston",
+      "inventory": [
+        { "item": "item1", "quantity": 20 },
+        { "item": "item2", "quantity": 20 },
+        { "item": "item3", "quantity": 20 }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "inventory": [
+        { "item": "item1", "quantity": 20 },
+        { "item": "item2", "quantity": 20 },
+        { "item": "item3", "quantity": 20 }
+      ]
+    }
+  ]
+}

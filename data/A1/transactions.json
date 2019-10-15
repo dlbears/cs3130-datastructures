@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1000", 
+    "operation": "O",
+    "amount": 436,
+    "unitCost": 1.05
+  },
+  {
+    "id": "1000",
+    "operation": "P",
+    "amount": 500
+  }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1000",
+        "name": "ABC Construction Co.",
+        "balance": 238.8
+    },
+    {
+        "id": "1001",
+        "name": "Rick's Real Emporium",
+        "balance": 0
+    },
+    {
+        "id": "1002",
+        "name": "Morty's Moritorium",
+        "balance": 1522.76
+    },
+    {
+        "id": "1111",
+        "name": "Saitama Noodles Inc.",
+        "balance": 0
+    },
+    {
+        "id": "3142",
+        "name": "Euler's Baked Maths.",
+        "balance": 2.71
+    },
+    {
+        "id": "3143",
+        "name": "Pi's Pie House Diner",
+        "balance": 3.14
+    },
+    {
+        "id": "3333",
+        "name": "Wedge's Arcade Shop",
+        "balance": 120
+    },
+    {
+        "id": "6666",
+        "name": "Pac Man Metaphysics",
+        "balance": 0
+    },
+    {
+        "id": "6789",
+        "name": "Museum of the Future",
+        "balance": 1011.12
+    }, 
+    {
+        "id": "9999",
+        "name": "Vegeta Over 9000 Inc",
+        "balance": 1
+    }
+]
