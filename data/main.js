@@ -36,17 +36,17 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 exports.__esModule = true;
-var a1_1 = require("./A1/a1");
+var Assignment1_1 = require("./A1/Assignment1");
 var runner = function () { return __awaiter(void 0, void 0, void 0, function () {
     var call, result, e_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                call = a1_1.a1();
+                call = new Assignment1_1.Assignment1();
                 _a.label = 1;
             case 1:
                 _a.trys.push([1, 3, , 4]);
-                return [4 /*yield*/, call];
+                return [4 /*yield*/, call.run()];
             case 2:
                 result = _a.sent();
                 console.log(result);

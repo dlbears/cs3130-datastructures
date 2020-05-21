@@ -1,22 +1,90 @@
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
-update
- result: []
+ABC Construction Co.	1000
+PREVIOUS BALANCE					$  238.80
+	0000#	Payment					$- 594.00
+	0001#	Weatherproof Nails		$+  79.53
+	0002#	Scruplus				$+ 395.36
+	0003#	Chumble					$+ 515.96
+	0004#	Payment					$-  51.00
+BALANCE DUE							$  584.65
+
+Rick's Real Emporium	1001
+PREVIOUS BALANCE					$    0.00
+	0005#	Payment					$- 659.00
+	0006#	Weatherproof Nails		$+  78.21
+	0007#	Fleeb Juice (Gallon)	$+ 750.42
+	0008#	Weatherproof Nails		$+ 114.84
+	0009#	Weatherproof Nails		$+ 295.68
+BALANCE DUE							$  580.15
+
+Morty's Moritorium	1002
+PREVIOUS BALANCE					$ 1522.76
+	0010#	Fleeb Juice (Gallon)	$+  95.04
+	0011#	Fleeb Juice (Gallon)	$+ 467.28
+	0012#	Weatherproof Nails		$+ 249.48
+	0013#	Payment					$- 613.00
+	0014#	Payment					$- 962.00
+BALANCE DUE							$  759.56
+
+Saitama Noodles Inc.	1111
+PREVIOUS BALANCE					$    0.00
+	0015#	Payment					$- 398.00
+	0016#	Weatherproof Nails		$+ 192.39
+	0017#	Scruplus				$+ 488.32
+	0018#	Scruplus				$+ 548.80
+	0019#	Payment					$- 376.00
+BALANCE DUE							$  455.51
+
+Euler's Baked Maths.	3142
+PREVIOUS BALANCE					$    2.71
+	0020#	Payment					$- 417.00
+	0021#	Chumble					$+ 644.95
+	0022#	Payment					$-  19.00
+	0023#	Payment					$- 221.00
+	0024#	Weatherproof Nails		$+ 253.77
+BALANCE DUE							$  244.43
+
+Pi's Pie House Diner	3143
+PREVIOUS BALANCE					$    3.14
+	0025#	Fleeb Juice (Gallon)	$+ 572.22
+	0026#	Chumble					$+ 128.99
+	0027#	Chumble					$+ 386.97
+	0028#	Payment					$- 670.00
+	0029#	Portal Gun				$+ 350.91
+BALANCE DUE							$  772.23
+
+Wedge's Arcade Shop	3333
+PREVIOUS BALANCE					$  120.00
+	0030#	Payment					$- 437.00
+	0031#	Payment					$- 771.00
+	0032#	Chumble					$+ 515.96
+	0033#	Weatherproof Nails		$+ 168.63
+	0034#	Chumble					$+ 386.97
+BALANCE DUE							$  -16.44
+
+Pac Man Metaphysics	6666
+PREVIOUS BALANCE					$    0.00
+	0035#	Portal Gun				$+ 584.85
+	0036#	Plumbus					$+ 208.00
+	0037#	Payment					$- 462.00
+	0038#	Fleeb Juice (Gallon)	$+  47.52
+	0039#	Chumble					$+ 128.99
+BALANCE DUE							$  507.36
+
+Museum of the Future	6789
+PREVIOUS BALANCE					$ 1011.12
+	0040#	Fleeb Juice (Gallon)	$+ 409.86
+	0041#	Payment					$- 765.00
+	0042#	Payment					$- 218.00
+	0043#	Weatherproof Nails		$+ 167.97
+	0044#	Scruplus				$+ 100.80
+BALANCE DUE							$  706.75
+
+Vegeta Over 9000 Inc	9999
+PREVIOUS BALANCE					$    1.00
+	0045#	Payment					$- 762.00
+	0046#	Portal Gun				$+ 896.77
+	0047#	Chumble					$+ 386.97
+	0048#	Payment					$- 987.00
+	0049#	Weatherproof Nails		$+ 219.12
+BALANCE DUE							$ -245.14
+

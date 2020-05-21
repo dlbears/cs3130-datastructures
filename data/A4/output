@@ -1,0 +1,226 @@
+
+Set #1
+In order
+ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Pre order
+ 11 6 3 2 1 5 4 9 8 7 10 16 14 13 12 15 19 18 17 20
+Post order
+ 1 2 4 5 3 7 8 10 9 6 12 13 15 14 17 18 20 19 16 11
+Node count: 20
+Node(1) has 0 children
+Node(2) has 1 children
+Node(3) has 2 children
+Node(4) has 0 children
+Node(5) has 1 children
+Node(6) has 2 children
+Node(7) has 0 children
+Node(8) has 1 children
+Node(9) has 2 children
+Node(10) has 0 children
+Node(11) has 2 children
+Node(12) has 0 children
+Node(13) has 1 children
+Node(14) has 2 children
+Node(15) has 0 children
+Node(16) has 2 children
+Node(17) has 0 children
+Node(18) has 1 children
+Node(19) has 2 children
+Node(20) has 0 children
+In order
+ 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 0
+Pre order
+ 13 7 4 3 2 6 5 11 9 8 12 18 16 15 14 17 21 20 19 0
+Post order
+ 2 3 5 6 4 8 9 12 11 7 14 15 17 16 19 20 0 21 18 13
+Node count: 20
+Node(2) has 0 children
+Node(3) has 1 children
+Node(4) has 2 children
+Node(5) has 0 children
+Node(6) has 1 children
+Node(7) has 2 children
+Node(8) has 0 children
+Node(9) has 1 children
+Node(11) has 2 children
+Node(12) has 0 children
+Node(13) has 2 children
+Node(14) has 0 children
+Node(15) has 1 children
+Node(16) has 2 children
+Node(17) has 0 children
+Node(18) has 2 children
+Node(19) has 0 children
+Node(20) has 1 children
+Node(21) has 2 children
+Node(0) has 0 children
+In order
+ 3 4 6 7 8 9 12 13 14 15 16 17 18 19 20 21 0 10
+Pre order
+ 15 8 6 4 3 7 13 12 9 14 20 18 17 16 19 0 21 10
+Post order
+ 3 4 7 6 9 12 14 13 8 16 17 19 18 21 10 0 20 15
+Node count: 18
+Node(3) has 0 children
+Node(4) has 1 children
+Node(6) has 2 children
+Node(7) has 0 children
+Node(8) has 2 children
+Node(9) has 0 children
+Node(12) has 1 children
+Node(13) has 2 children
+Node(14) has 0 children
+Node(15) has 2 children
+Node(16) has 0 children
+Node(17) has 1 children
+Node(18) has 2 children
+Node(19) has 0 children
+Node(20) has 2 children
+Node(21) has 0 children
+Node(0) has 2 children
+Node(10) has 0 children
+
+Set #2
+In order
+ 3 1 5
+Pre order
+ 1 3 5
+Post order
+ 3 5 1
+Node count: 3
+Node(3) has 0 children
+Node(1) has 2 children
+Node(5) has 0 children
+In order
+ 5
+Pre order
+ 5
+Post order
+ 5
+Node count: 1
+Node(5) has 0 children
+
+Set #3
+In order
+ 
+Pre order
+ 
+Post order
+ 
+Node count: 0
+Node() has 0 children
+In order
+ 30 5 10 20
+Pre order
+ 10 5 30 20
+Post order
+ 30 5 20 10
+Node count: 4
+Node(30) has 0 children
+Node(5) has 1 children
+Node(10) has 2 children
+Node(20) has 0 children
+In order
+ 
+Pre order
+ 
+Post order
+ 
+Node count: 0
+Node() has 0 children
+
+Set #4
+In order
+ 2
+Pre order
+ 2
+Post order
+ 2
+Node count: 1
+Node(2) has 0 children
+In order
+ 
+Pre order
+ 
+Post order
+ 
+Node count: 0
+Node() has 0 children
+
+Set #5
+In order
+ 11 25 75 12 37 60 90 8 15 32 45 50 67 97 95
+Pre order
+ 8 12 25 11 75 60 37 90 50 32 15 45 97 67 95
+Post order
+ 11 75 25 37 90 60 12 15 45 32 67 95 97 50 8
+Node count: 15
+Node(11) has 0 children
+Node(25) has 2 children
+Node(75) has 0 children
+Node(12) has 2 children
+Node(37) has 0 children
+Node(60) has 2 children
+Node(90) has 0 children
+Node(8) has 2 children
+Node(15) has 0 children
+Node(32) has 2 children
+Node(45) has 0 children
+Node(50) has 2 children
+Node(67) has 0 children
+Node(97) has 2 children
+Node(95) has 0 children
+In order
+ 11 25 75 12 60 90 8 32 45 50 67 97 95 40 99
+Pre order
+ 32 12 25 11 75 90 60 8 97 50 45 67 40 95 99
+Post order
+ 11 75 25 60 8 90 12 45 67 50 95 99 40 97 32
+Node count: 15
+Node(11) has 0 children
+Node(25) has 2 children
+Node(75) has 0 children
+Node(12) has 2 children
+Node(60) has 0 children
+Node(90) has 2 children
+Node(8) has 0 children
+Node(32) has 2 children
+Node(45) has 0 children
+Node(50) has 2 children
+Node(67) has 0 children
+Node(97) has 2 children
+Node(95) has 0 children
+Node(40) has 2 children
+Node(99) has 0 children
+
+Set #6
+In order
+ 50 40 60 30 70 20 80 10 90
+Pre order
+ 70 60 40 50 30 10 80 20 90
+Post order
+ 50 40 30 60 20 80 90 10 70
+Node count: 9
+Node(50) has 0 children
+Node(40) has 1 children
+Node(60) has 2 children
+Node(30) has 0 children
+Node(70) has 2 children
+Node(20) has 0 children
+Node(80) has 1 children
+Node(10) has 2 children
+Node(90) has 0 children
+
+Set #7
+In order
+ 30 40 20 10 50
+Pre order
+ 20 40 30 50 10
+Post order
+ 30 40 10 50 20
+Node count: 5
+Node(30) has 0 children
+Node(40) has 1 children
+Node(20) has 2 children
+Node(10) has 0 children
+Node(50) has 1 children

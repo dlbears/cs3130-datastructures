@@ -1,9 +1,9 @@
-import { a1 } from './A1/a1'
+import { Assignment1 } from './A1/Assignment1'
 
 const runner = async () => {
-    let call = a1();
+    let call = new Assignment1();
     try {
-        let result = await call
+        let result = await call.run()
         console.log(result)
     } catch (e) {
         console.error(e)

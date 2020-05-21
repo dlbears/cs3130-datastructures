@@ -1,0 +1,16 @@
+[
+  {
+    "tid": "0001",
+    "id": "1000", 
+    "operation": "O",
+    "amount": 436,
+    "itemName": "Weatherproof Nails",
+    "unitCost": 1.00
+  },
+  {
+    "tid": "0002",
+    "id": "1000",
+    "operation": "P",
+    "amount": 500
+  }
+]

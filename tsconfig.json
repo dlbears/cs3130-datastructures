@@ -1,13 +1,14 @@
 {
-    "compilerOptions": {
-        "target": "es2019",
-        "module": "commonjs",
-        "outDir": "./build",
-        "lib": [ "esnext" ],
-        "strict": true,
-        "sourceMap": true,
-        "esModuleInterop": true
-    },
-    "include": ["data/**/*"],
-    "exclude": ["node_modules", "**/*.test.ts"]
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "commonjs",
+    "outDir": "./build",
+    "lib": ["esnext", "es2019"],
+    "strict": false,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "downlevelIteration": true
+  },
+  "include": ["data/**/*"],
+  "exclude": ["node_modules", "**/*.test.ts"]
 }

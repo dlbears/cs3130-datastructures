@@ -1,13 +1,366 @@
-[
-  {
-    "id": "1000", 
-    "operation": "O",
-    "amount": 436,
-    "unitCost": 1.05
-  },
-  {
-    "id": "1000",
-    "operation": "P",
-    "amount": 500
-  }
-]
+[ 
+{
+  "tid": "0000",
+  "id": "1000",
+  "operation": "P",
+  "amount": 594
+},
+{
+  "tid": "0001",
+  "id": "1000",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 241,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0002",
+  "id": "1000",
+  "operation": "O",
+  "unitCost": 1.12,
+  "amount": 353,
+  "itemName": "Scruplus"
+},
+{
+  "tid": "0003",
+  "id": "1000",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 4,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0004",
+  "id": "1000",
+  "operation": "P",
+  "amount": 51
+},
+{
+  "tid": "0005",
+  "id": "1001",
+  "operation": "P",
+  "amount": 659
+},
+{
+  "tid": "0006",
+  "id": "1001",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 237,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0007",
+  "id": "1001",
+  "operation": "O",
+  "unitCost": 1.98,
+  "amount": 379,
+  "itemName": "Fleeb Juice (Gallon)"
+},
+{
+  "tid": "0008",
+  "id": "1001",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 348,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0009",
+  "id": "1001",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 896,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0010",
+  "id": "1002",
+  "operation": "O",
+  "unitCost": 1.98,
+  "amount": 48,
+  "itemName": "Fleeb Juice (Gallon)"
+},
+{
+  "tid": "0011",
+  "id": "1002",
+  "operation": "O",
+  "unitCost": 1.98,
+  "amount": 236,
+  "itemName": "Fleeb Juice (Gallon)"
+},
+{
+  "tid": "0012",
+  "id": "1002",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 756,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0013",
+  "id": "1002",
+  "operation": "P",
+  "amount": 613
+},
+{
+  "tid": "0014",
+  "id": "1002",
+  "operation": "P",
+  "amount": 962
+},
+{
+  "tid": "0015",
+  "id": "1111",
+  "operation": "P",
+  "amount": 398
+},
+{
+  "tid": "0016",
+  "id": "1111",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 583,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0017",
+  "id": "1111",
+  "operation": "O",
+  "unitCost": 1.12,
+  "amount": 436,
+  "itemName": "Scruplus"
+},
+{
+  "tid": "0018",
+  "id": "1111",
+  "operation": "O",
+  "unitCost": 1.12,
+  "amount": 490,
+  "itemName": "Scruplus"
+},
+{
+  "tid": "0019",
+  "id": "1111",
+  "operation": "P",
+  "amount": 376
+},
+{
+  "tid": "0020",
+  "id": "3142",
+  "operation": "P",
+  "amount": 417
+},
+{
+  "tid": "0021",
+  "id": "3142",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 5,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0022",
+  "id": "3142",
+  "operation": "P",
+  "amount": 19
+},
+{
+  "tid": "0023",
+  "id": "3142",
+  "operation": "P",
+  "amount": 221
+},
+{
+  "tid": "0024",
+  "id": "3142",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 769,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0025",
+  "id": "3143",
+  "operation": "O",
+  "unitCost": 1.98,
+  "amount": 289,
+  "itemName": "Fleeb Juice (Gallon)"
+},
+{
+  "tid": "0026",
+  "id": "3143",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 1,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0027",
+  "id": "3143",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 3,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0028",
+  "id": "3143",
+  "operation": "P",
+  "amount": 670
+},
+{
+  "tid": "0029",
+  "id": "3143",
+  "operation": "O",
+  "unitCost": 38.99,
+  "amount": 9,
+  "itemName": "Portal Gun"
+},
+{
+  "tid": "0030",
+  "id": "3333",
+  "operation": "P",
+  "amount": 437
+},
+{
+  "tid": "0031",
+  "id": "3333",
+  "operation": "P",
+  "amount": 771
+},
+{
+  "tid": "0032",
+  "id": "3333",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 4,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0033",
+  "id": "3333",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 511,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0034",
+  "id": "3333",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 3,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0035",
+  "id": "6666",
+  "operation": "O",
+  "unitCost": 38.99,
+  "amount": 15,
+  "itemName": "Portal Gun"
+},
+{
+  "tid": "0036",
+  "id": "6666",
+  "operation": "O",
+  "unitCost": 6.5,
+  "amount": 32,
+  "itemName": "Plumbus"
+},
+{
+  "tid": "0037",
+  "id": "6666",
+  "operation": "P",
+  "amount": 462
+},
+{
+  "tid": "0038",
+  "id": "6666",
+  "operation": "O",
+  "unitCost": 1.98,
+  "amount": 24,
+  "itemName": "Fleeb Juice (Gallon)"
+},
+{
+  "tid": "0039",
+  "id": "6666",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 1,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0040",
+  "id": "6789",
+  "operation": "O",
+  "unitCost": 1.98,
+  "amount": 207,
+  "itemName": "Fleeb Juice (Gallon)"
+},
+{
+  "tid": "0041",
+  "id": "6789",
+  "operation": "P",
+  "amount": 765
+},
+{
+  "tid": "0042",
+  "id": "6789",
+  "operation": "P",
+  "amount": 218
+},
+{
+  "tid": "0043",
+  "id": "6789",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 509,
+  "itemName": "Weatherproof Nails"
+},
+{
+  "tid": "0044",
+  "id": "6789",
+  "operation": "O",
+  "unitCost": 1.12,
+  "amount": 90,
+  "itemName": "Scruplus"
+},
+{
+  "tid": "0045",
+  "id": "9999",
+  "operation": "P",
+  "amount": 762
+},
+{
+  "tid": "0046",
+  "id": "9999",
+  "operation": "O",
+  "unitCost": 38.99,
+  "amount": 23,
+  "itemName": "Portal Gun"
+},
+{
+  "tid": "0047",
+  "id": "9999",
+  "operation": "O",
+  "unitCost": 128.99,
+  "amount": 3,
+  "itemName": "Chumble"
+},
+{
+  "tid": "0048",
+  "id": "9999",
+  "operation": "P",
+  "amount": 987
+},
+{
+  "tid": "0049",
+  "id": "9999",
+  "operation": "O",
+  "unitCost": 0.33,
+  "amount": 664,
+  "itemName": "Weatherproof Nails"
+}
+ ]

@@ -7,16 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsc ./data/main.ts",
     "start": "npm run execute",
-    "preexecute": "tsc --lib ESNext ./data/main.ts",
-    "execute": "node main.js"
+    "preexecute": "tsc ./data/main.ts",
+    "execute": "node ./data/main.js"
   },
   "quokka": {
     "ts": {
       "path": "./node_modules/typescript/",
       "compilerOptions": {
         "lib": [
-          "ESNext"
-        ]
+          "ESNext",
+          "es2019"
+        ],
+        "strict": false,
+        "downlevelIteration": true
       }
     }
   },
@@ -24,6 +27,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^12.7.11",
+    "transducers-js": "^0.4.174",
     "ts-node": "^8.4.1",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.7.0-dev.20191009"
