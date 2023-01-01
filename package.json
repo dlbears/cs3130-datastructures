@@ -29,7 +29,7 @@
     "@types/node": "^12.7.11",
     "transducers-js": "^0.4.174",
     "ts-node": "^8.4.1",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^3.7.0-dev.20191009"
   },
   "devDependencies": {
